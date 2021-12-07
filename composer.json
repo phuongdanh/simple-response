@@ -1,0 +1,17 @@
+{
+    "name": "phuongdanh/simple-response",
+    "description": "This package is used to wrap your response data",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danh tp",
+            "email": "tuphuongdanh1996@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"SimpleResponse\\": "src/"}
+    },
+    "require": {}
+}

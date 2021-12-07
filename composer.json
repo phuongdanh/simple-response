@@ -1,6 +1,11 @@
 {
     "name": "phuongdanh/simple-response",
     "description": "This package is used to wrap your response data",
+    "keywords": [
+        "api",
+        "json",
+        "xml"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,7 +14,6 @@
             "email": "tuphuongdanh1996@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"SimpleResponse\\": "src/"}
     },

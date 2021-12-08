@@ -18,5 +18,14 @@
     "autoload": {
         "psr-4": {"SimpleResponse\\": "src/"}
     },
-    "require": {}
+    "require": {
+        "illuminate/support": "7.x-dev"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SimpleResponse\\ServiceProvider"
+            ]
+        }
+    }
 }

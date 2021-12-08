@@ -1,4 +1,4 @@
-# simeple-response
+# simple-response
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Total Downloads](https://img.shields.io/packagist/dt/phuongdanh/simple-response.svg?style=flat-square)](https://packagist.org/packages/phuongdanh/simple-response)

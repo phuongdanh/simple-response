@@ -1,6 +1,6 @@
 {
     "name": "phuongdanh/simple-response",
-    "description": "This package is used to wrap your response data",
+    "description": "This package is used to wrap your response data. It supports for laravel as well",
     "keywords": [
         "api",
         "json",
@@ -19,7 +19,7 @@
         "psr-4": {"SimpleResponse\\": "src/"}
     },
     "require": {
-        "illuminate/support": "7.x-dev"
+        "illuminate/support": "*"
     },
     "extra": {
         "laravel": {
